@@ -1,0 +1,13 @@
+{
+  "name": "task-manager-cli",
+  "version": "1.0.0",
+  "description": "task manager cli",
+  "main": "index.js",
+  "author": "Randy Vianda Putra <modulloe@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pouchdb": "^7.2.2",
+    "pouchdb-node": "^7.2.2"
+  }
+}
